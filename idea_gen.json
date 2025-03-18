@@ -51,6 +51,7 @@
       "Minehut Dashboard",
       "Minehut Forums",
       "Minehut Discord",
+      "Minehut Servers Discord",
       "Minehut Wiki",
       "Minehut Support",
       "SpigotMC Forums",
@@ -113,7 +114,8 @@
       "Multiverse-Core",
       "CoreProtect",
       "HolographicDisplays",
-      "CrazyCrates"
+      "CrazyCrates",
+      "PlotSquared"
     ],
     "functions": [
       "1.8 support",
@@ -406,7 +408,8 @@
       "Minecon",
       "EnderCon",
       "Nether Breakout",
-      "Virtual Town Hall"
+      "Virtual Town Hall",
+      "CubedCon"
     ],
     "platforms": [
       "Minehut",
@@ -414,6 +417,7 @@
       "Bukkit",
       "Spigot",
       "Fabric",
+      "Forge",
       "Discord",
       "Reddit",
       "GitHub",
@@ -423,7 +427,8 @@
       "Steam",
       "Minehut Admin Panel",
       "Minehut Dashboard",
-      "TikTok"
+      "TikTok",
+      "Wiki"
     ]
   },
   "sentences": [
@@ -499,6 +504,9 @@
     "[people] claims [things] will become [worse] if [sites] doesn’t fix the broken [code].",
     "Community polls on [sites] show that most users find Minehut’s new [functions] [adj].",
     "Rumors on [platforms] say [people] forcibly added [badsoft] to boost [things] security.",
-    "Insiders report that [people] planned to [ban] premium players from Minehut for extra profits."
+    "Insiders report that [people] planned to [ban] premium players from Minehut for extra profits.",
+    "A [payment] leak reveals that [people] paid [price] to access [things] before the [drama].",
+    "[people] [says] [things] is causing [crash] on [platforms] due to outdated [code].",
+    "A [document] leak shows that [sites] planned to remove [functions] without warning."
   ]
 }
