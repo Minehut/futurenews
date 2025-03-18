@@ -370,7 +370,8 @@
       "Apple Pay",
       "CashApp",
       "UnionPay",
-      "Alipay"
+      "Alipay",
+      "Zelle"
     ],
     "document": [
       "code of conduct",
