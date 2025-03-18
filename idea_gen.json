@@ -113,7 +113,12 @@
       "Multiverse-Core",
       "CoreProtect",
       "HolographicDisplays",
-      "CrazyCrates"
+      "CrazyCrates",
+      "Skript",
+      "FancyHolograms",
+      "Citizens",
+      "Folia",
+      "Purpur"
     ],
     "functions": [
       "1.8 support",
