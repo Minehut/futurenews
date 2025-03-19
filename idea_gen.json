@@ -115,7 +115,12 @@
       "CoreProtect",
       "HolographicDisplays",
       "CrazyCrates",
-      "PlotSquared"
+      "PlotSquared",
+      "Skript",
+      "FancyHolograms",
+      "Citizens",
+      "Folia",
+      "Purpur"
     ],
     "functions": [
       "1.8 support",
