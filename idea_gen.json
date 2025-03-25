@@ -42,13 +42,8 @@
       "403Denied"
     ],
     "sites": [
-      "Minehut",
-      "Minehut Dashboard",
       "Minehut Forums",
       "Minehut Discord",
-      "Minehut Servers Discord",
-      "Minehut Wiki",
-      "Minehut Support",
       "SpigotMC Forums",
       "Minecraft Forums",
       "Reddit",
@@ -59,19 +54,15 @@
       "Hacker News",
       "StackOverflow",
       "Patreon",
-      "Minehut Panel",
       "Planet Minecraft",
       "CurseForge",
-      "Minecraft Wiki",
-      "FindMCServer.com",
+      "Minecraft Wiki"
     ],
     "things": [
       "Paper",
       "Spigot",
       "Bungeecord",
       "CraftBukkit",
-      "GSBans",
-      "GSAuth",
       "LuckPerms",
       "EssentialsX",
       "GroupManager",
@@ -225,6 +216,8 @@
       "confirms",
       "alleges",
       "proclaims",
+      "mumbles",
+      "whispers",
       "shouts"
     ],
     "badsoft": [
@@ -372,8 +365,6 @@
       "Ko-fi",
       "Square",
       "Braintree",
-      "Bitcoin",
-      "Ethereum",
       "Venmo",
       "Google Pay",
       "Apple Pay",
@@ -421,7 +412,6 @@
       "Cubed!Con"
     ],
     "platforms": [
-      "Minehut",
       "PaperMC",
       "Bukkit",
       "Spigot",
@@ -434,8 +424,6 @@
       "YouTube",
       "Mojang",
       "Steam",
-      "Minehut Admin Panel",
-      "Minehut Dashboard",
       "TikTok",
       "Wiki"
     ]
