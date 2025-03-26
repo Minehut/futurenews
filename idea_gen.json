@@ -58,7 +58,9 @@
       "Patreon",
       "Planet Minecraft",
       "CurseForge",
-      "Minecraft Wiki"
+      "Minecraft Wiki",
+      "Future News",
+      "ChatGPT"
     ],
     "things": [
       "Paper",
@@ -143,7 +145,9 @@
       "armor stand editing",
       "hub balancing",
       "queue system",
-      "NPC creation"
+      "NPC creation",
+      "AI",
+      "LLM"
     ],
     "adj": [
       "horrible",
@@ -220,7 +224,8 @@
       "proclaims",
       "mumbles",
       "whispers",
-      "shouts"
+      "shouts",
+      "laments"
     ],
     "badsoft": [
       "malware",
@@ -267,7 +272,6 @@
       "corrupt chunks",
       "freeze",
       "overload",
-      "halt",
       "implode",
       "unexpected restart",
       "kernel panic",
@@ -305,7 +309,8 @@
       "plugin data",
       "minified code",
       "encrypted jar",
-      "Maven dependencies"
+      "Maven dependencies",
+      "LLM"
     ],
     "worse": [
       "worse",
@@ -411,7 +416,8 @@
       "Nether Breakout",
       "Virtual Town Hall",
       "Partner Meeting",
-      "Cubed!Con"
+      "Cubed!Con",
+      "Live Stream"
     ],
     "platforms": [
       "PaperMC",
@@ -424,9 +430,10 @@
       "GitHub",
       "Twitch",
       "YouTube",
-      "Mojang",
+      "Minecraft",
       "Steam",
       "TikTok",
+      "Threads",
       "Wiki"
     ]
   },
@@ -505,6 +512,29 @@
     "During a livestream, [people] presented a thrilling update where [people] would sing pop songs whenever [functions] are used.",
     "In a heated debate, [people] wonder if the new [functions] are the best thing since diamond swords made of waffles.",
     "After much anticipation, [server] revealed the [functions] update can now summon miniature dancing dragons.",
-    "[people] claimed that the persistent giggling of [things] were due to its love for rubber chickens."
+    "[people] claimed that the persistent giggling of [things] were due to its love for rubber chickens.",
+    "Leaked documents showed that [server] secretly planned a party for all players to celebrate [things], whether they want to or not.",
+    "A viral video surfaced showing [people] demonstrating how [functions] can knit scarves for in-game characters.",
+    "[people] are organizing a waffle parade on [platforms] to celebrate the launch of [functions].",
+    "Critics argue that the [document] on [server] needs more glitter to match the sparkle of [things].",
+    "A recent poll on [sites] reveals that most users feel [things] has become far too goofy after updates.",
+    "[people] explained that the rushed integration of [functions] led to players having far too many pickles in their cupboard.",
+    "The rumor mill is abuzz, with [people] sharing wild theories about [server] secretly planting cake-filled [things] in player bases.",
+    "A renowned figure, [people], is rumored to be crafting wearable banana suits for use on Minehut.",
+    "[people] insist that rewriting [code] to include talking parrots will unlock endless joy for [things].",
+    "Following glowing feedback, [server] is promising more unicorn-inspired updates to [functions].",
+    "In a MAJOR announcement, [server] revealed that the [functions] update now features bubble machines.",
+    "A shared community memo revealed that [server] had been working on a surprise llama parade update for months with [people].",
+    "The latest [functions] update turned [server] into a jungle gym filled with playful puppies.",
+    "[people] continue to debate whether [functions] are more fun with rubber duck sound effects or fireworks.",
+    "In a thrilling twist, [server] announced plans for [things] to include a server-wide pizza party.",
+    "[people] celebrated the new update, which transformed [server] into a magical realm of jellybeans and happiness.",
+    "A Minehut staff member joked that the new [functions] might turn players into candy-eating dragons... and it happened!",
+    "[people] revealed internal plans to craft [functions] powered by friendly ghosts to enhance gameplay.",
+    "[people] claim that free server hosting on Minehut has led to an explosion of penguin-themed creations.",
+    "[server] is now famous for hosting the first-ever in-game circus featuring dancing walruses.",
+    "Following an update by [people], [server] became known for its edible trees made of chocolate blocks.",
+    "[server] is now being praised for its innovative use of pizza-themed [code] and glittering [functions].",
+    "Excitement spreads on [platforms] as [sites] launched a campaign to celebrate the joy of [things]."
   ]
 }
